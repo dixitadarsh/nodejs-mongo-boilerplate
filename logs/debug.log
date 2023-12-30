@@ -1,0 +1,20 @@
+{
+  "logs": [
+    {
+      "level": 3,
+      "time": 1703943448462,
+      "date": "2023-12-30T13:37:28.462Z",
+      "msg": "Example app listening on port 4000",
+      "tag": "",
+      "v": 1
+    },
+    {
+      "level": 3,
+      "time": 1703943448515,
+      "date": "2023-12-30T13:37:28.515Z",
+      "msg": "Connected to database",
+      "tag": "Database",
+      "v": 1
+    }
+  ]
+}
